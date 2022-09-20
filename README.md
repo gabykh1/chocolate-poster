@@ -11,7 +11,8 @@ the library and how to use it
 
 
 ## chocolate cow
-The outcome:     
+The outcome: 
+![chocolate cow](https://user-images.githubusercontent.com/108233349/191345500-fe69dfa8-8e53-40af-8d87-6cc6a982b5e0.png)
 
 ## Installation
 
